@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
-  printf("Bem-vindos ao Mackenzie\n");  
-  printf("Faculdade Computa e Informática - FCI, desde 1970\n");
+    printf("Bem-vindos à FCI-Mackenzie\n");
+    printf("Faculdade de Computação e Informática, fundada em 1970\n");
+    printf("Aula de:\n");
     printf("Algoritmos e\n");
     printf("Programacao II -\n");
     printf("Turma 2P11\n");
